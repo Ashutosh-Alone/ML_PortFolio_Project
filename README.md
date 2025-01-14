@@ -27,7 +27,7 @@ ML_Portfolio_Project/
 ## How to Run
 
 1. Clone the repository:  
-   `git clone https://github.com/<your-username>/ML_Portfolio_Project.git`  
+   `git clone https://github.com/Ashutosh-Alone/ML_Portfolio_Project.git`  
 2. Open RStudio or any R environment.  
 3. Install required packages:  
    `install.packages(c("tidyverse", "caret", "randomForest", "gbm", "e1071", "pROC"))`  
@@ -38,7 +38,7 @@ ML_Portfolio_Project/
 ## Author
 
 Ashutosh Sudhirkumar Alone  
-  
+Email: ashutoshs01999@gmail.com  
  
 
 For issues or suggestions, feel free to raise an issue in this repository.
